@@ -1,6 +1,6 @@
 Amanda Loyse - Arapoema
 
-<img src="assets/aula_10.png" alt="Base">
+<img src="img/aula_10.png" alt="Base">
 
 Objetivo da Atividade
 O objetivo desta atividade é reproduzir, utilizando React, o layout apresentado no protótipo
