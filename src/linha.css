@@ -1,0 +1,7 @@
+.linha-decorativa {
+  border: none;
+  height: 1px;
+  background: linear-gradient(to right, transparent, #999, transparent);
+  width: 60%;
+  margin: 20px auto;
+}
